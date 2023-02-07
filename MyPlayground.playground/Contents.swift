@@ -5,3 +5,5 @@ var firstNumber = 10
 var secondNumber = 13
 print(firstNumber)
 print(greeting, secondNumber)
+// trying to understand git on  Xcode
+hfjwrferfe
